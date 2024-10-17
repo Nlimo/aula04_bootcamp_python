@@ -11,6 +11,4 @@ for idade in lista:
     else:
         lista_menor.append(idade)
 
-
-
 print(lista_maior)
